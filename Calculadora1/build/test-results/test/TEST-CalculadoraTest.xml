@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-09T16:42:12" hostname="MARARUTA" time="0.029">
+  <properties/>
+  <testcase name="subTeste()" classname="CalculadoraTest" time="0.024"/>
+  <testcase name="diviTeste()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="somaTeste()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="multiTeste()" classname="CalculadoraTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

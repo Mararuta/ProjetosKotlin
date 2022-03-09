@@ -1,0 +1,1 @@
+C:\Users\noota\IdeaProjects\Exercicios_Kotlin\Calcula\build\classes\kotlin\main\Calculadora$Companion.class;C:\Users\noota\IdeaProjects\Exercicios_Kotlin\Calcula\build\classes\kotlin\main\Calculadora.class;C:\Users\noota\IdeaProjects\Exercicios_Kotlin\Calcula\build\classes\kotlin\main\MainKt.class
